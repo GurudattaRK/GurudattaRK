@@ -12,6 +12,5 @@ I'm currently <br>1. Exploring low level languages like x64 assembly & C.<br>2. 
 <a href="https://en.wikipedia.org/wiki/X86_assembly_language" target="_blank"><img style="margin: 5px" src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="x64 Assembly" height="60" /></a>  
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GurudattaRK&theme=dark&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GurudattaRK&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GurudattaRK&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
