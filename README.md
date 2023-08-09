@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently <br>1. Exploring low level languages like x64 assembly & C.<br>2. Analyzing & designing my own secure & efficient cryptographic algorithms.<br>3. Exploring parallel computing concepts.
+I'm currently <br>1. Exploring low level languages like x86/x64 assembly & C.<br>2. Analyzing & designing my own secure & efficient cryptographic algorithms.<br>3. Exploring parallel computing concepts.
 
 
 ## 🌐 Socials:
