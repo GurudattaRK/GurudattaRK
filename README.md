@@ -1,4 +1,4 @@
-# 💡⚙About my projects:
+# 💡About my projects:
 You might notice all/most of my projects are about cryptography where I encrypt/decrypt files & that's because for my github I use cryptography as a base concept upon which I build,test ,& explore new concepts, technologies & frameworks. So, my projects aren't just code but also proof of concepts using cryptography as base functionality of the project. This makes my projects useful to anyone using them as all projects offer better privacy & security.
 <br><br>I'm currently <br>1. Exploring low level languages like x86/x64 assembly & C.<br>2. Analyzing & designing my own secure & efficient cryptographic algorithms.<br>3. Exploring parallel computing concepts & technologies like CUDA & Multithreading/Multi-core programming.
 
