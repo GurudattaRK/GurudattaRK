@@ -9,7 +9,7 @@ Most of my projects are cryptography based where I encrypt/decrypt files & that'
 # 💻 Tech Stack:
 <div align="left">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raytrix.de/wp-content/uploads/2019/08/thumb_nvidia-cuda.png" alt="Nvidia CUDA" height="50" /></a> 
+<a href="https://developer.nvidia.com/cuda-zone" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjq4yKMhwaVakTQCdUms33TKRNVFIWB23lhGzJhhMYv3W9r0abl4H7Q1hYoMPcTJ8jnk&usqp=CAU" alt="Nvidia CUDA" height="50" /></a> 
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/X86_assembly_language" target="_blank"><img style="margin: 5px" src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="x64 Assembly" height="60" /></a>  
 </div>
