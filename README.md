@@ -11,7 +11,7 @@ Most of my projects are cryptography based where I encrypt/decrypt files & that'
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/X86_assembly_language" target="_blank"><img style="margin: 5px" src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="x64 Assembly" height="60" /></a>  
-<a href="https://developer.nvidia.com/cuda-zone" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/882/882731.png" alt="Nvidia CUDA" height="50" /></a> 
+<a href="https://developer.nvidia.com/cuda-toolkit" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/882/882731.png" alt="Nvidia CUDA" height="50" /></a> 
 </div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GurudattaRK&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
