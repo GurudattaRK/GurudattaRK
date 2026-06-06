@@ -9,10 +9,10 @@ When I'm not writing code I'm reading about physics, mathematics, or philosophy,
 
 # 💻 Tech Stack:
 <div align="left">  
-<a href="https://www.c-language.org/" target="_blank"><img style="margin: 15px" src="https://www.c-language.org/logo.svg" alt="C" height="45" /></a> 
-<a href="https://isocpp.org/" target="_blank"><img style="margin: 11px" src="https://isocpp.org/files/img/cpp_logo.png" alt="C++" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/X86_assembly_language" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/dwolfe884/obsidian-x86-flow-graph/HEAD/docs/images/x86.png" alt="x86 Assembly Language" height="60" /></a>  
-<a href="https://developer.nvidia.com/cuda-toolkit" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/882/882731.png" alt="Nvidia CUDA" height="50" /></a> 
+<a href="https://www.c-language.org/" target="_blank"><img hspace="20" style="vertical-align: middle" src="https://www.c-language.org/logo.svg" alt="C" height="50" /></a> 
+<a href="https://isocpp.org/" target="_blank"><img hspace="20" style="vertical-align: middle" src="https://isocpp.org/files/img/cpp_logo.png" alt="C++" height="55" /></a>  
+<a href="https://en.wikipedia.org/wiki/X86_assembly_language" target="_blank"><img hspace="20" style="vertical-align: middle" src="https://raw.githubusercontent.com/dwolfe884/obsidian-x86-flow-graph/HEAD/docs/images/x86.png" alt="x86 Assembly Language" height="55" /></a>  
+<a href="https://developer.nvidia.com/cuda-toolkit" target="_blank"><img hspace="20" style="vertical-align: middle" src="https://cdn-icons-png.flaticon.com/512/882/882731.png" alt="Nvidia CUDA" height="55" /></a> 
 </div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GurudattaRK&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
