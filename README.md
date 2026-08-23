@@ -9,9 +9,9 @@ When I'm not writing code I'm reading about physics, mathematics, or philosophy,
 
 # 💻 Tech Stack:
 <div align="left">  
-<a href="https://www.c-language.org/" target="_blank"><img hspace="20" style="vertical-align: middle" src="https://www.c-language.org/logo.svg" alt="C" height="50" /></a> 
+<a href="https://www.c-language.org/" target="_blank"><img hspace="20" style="vertical-align: middle" src="https://www.c-language.org/logo.svg" alt="C language" height="50" /></a> 
 <a href="https://isocpp.org/" target="_blank"><img hspace="20" style="vertical-align: middle" src="https://isocpp.org/files/img/cpp_logo.png" alt="C++" height="55" /></a>  
-<a href="https://en.wikipedia.org/wiki/X86_assembly_language" target="_blank"><img hspace="20" style="vertical-align: middle" src="https://raw.githubusercontent.com/dwolfe884/obsidian-x86-flow-graph/HEAD/docs/images/x86.png" alt="x86 Assembly Language" height="55" /></a>  
+<a href="[https://en.wikipedia.org/wiki/X86_assembly_language](https://user-images.githubusercontent.com/96035297/186022424-f96144ad-7b39-4add-a0dc-3c0ec400124f.png)" target="_blank"><img hspace="20" style="vertical-align: middle" src="https://raw.githubusercontent.com/dwolfe884/obsidian-x86-flow-graph/HEAD/docs/images/x86.png" alt="x86 Assembly Language" height="55" /></a>  
 <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank"><img hspace="20" style="vertical-align: middle" src="https://cdn-icons-png.flaticon.com/512/882/882731.png" alt="Nvidia CUDA" height="55" /></a> 
 </div>
 
